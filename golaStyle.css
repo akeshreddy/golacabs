@@ -1,0 +1,64 @@
+#main-header {
+	background-color:orange;
+	color:black;
+	text-align:center;
+}
+
+.container {
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+.container2
+{
+	width:90%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#navBar {
+	background-color:grey;
+	color:white;
+}
+
+#navBar ul
+{
+	padding:0;
+	list-style:none;
+}
+
+#navBar li
+{
+	display:inline;
+}
+
+#navBar a
+{
+	color:white;
+	padding-right:50px;
+	font-size:20px;
+	text-decoration:none;
+}
+#showcase
+{
+	background-image:url('taxi.jpg');
+	background-position:center;
+	min-height:300px;
+	text-align:left;
+
+}
+
+#showcase h1{
+	text-align:center;
+	color:black;
+	padding-top:260px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#main
+{
+	width:100%;
+	background-color:lightgrey;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
